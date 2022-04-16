@@ -1,3 +1,5 @@
+Note: This code is no longer maintained.
+
 # actividades-zoom-to-ics
 
 During the COVID-19 pandemic, our kids are having school classes remotely via Zoom.  Every week, the school sends a PDF file with the week's Zoom sessions, their IDs and passwords. If you want to schedule the sessions in your calendar, and include an url to open the session automatically, then you need to do it by hand.
